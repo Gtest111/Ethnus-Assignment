@@ -28,3 +28,30 @@ Tasks in this section are based on **Bootstrap** — a popular front-end framewo
 1. Clone this repository to your local machine using the following command:
    ```bash
    git clone https://github.com/Gtest111/Ethnus-Assignment.git
+
+
+## How to Use
+
+1. Open any of the `.html` files in a browser to view the completed tasks.
+2. You can modify the code to enhance functionality or test out different designs.
+
+## Prerequisites
+
+To work on or run the code in this repository, you'll need:
+- A modern web browser (e.g., Chrome, Firefox, etc.)
+- A code editor (e.g., Visual Studio Code, Sublime Text)
+- Basic knowledge of HTML, CSS, and Bootstrap
+
+## Contributing
+
+If you'd like to contribute to this repository, feel free to fork it and submit a pull request with any improvements or fixes.
+
+## License
+
+This project is open-source and available under the MIT License.
+
+## Author
+
+**Yajuvendrasinh Chudasama**  
+Reg. No: 22BCE10632  
+Email: [yajuvendrasinhchudasama2022@vitbhopal.ac.in](mailto:yajuvendrasinhchudasama2022@vitbhopal.ac.in)
